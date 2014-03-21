@@ -3,6 +3,11 @@ Devmexx
 
 Developer network tool
 
+## Internal Network
+* StackOverflow
+* different boards
+* devmexx community system
+
 ## Has some tools to support
 
 ### Support for Web Dev
